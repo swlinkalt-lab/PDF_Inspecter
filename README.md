@@ -1,10 +1,10 @@
 # PDF Inspector Business
 *(High-Speed Bulk PDF Keyword Search Tool for Windows)*
-🌐 日本語で読む場合はこちら → [README_JP.md](./README_JP.md)
+
 ---
 
 ## 🌐 Note for Japanese Users
-If you are more comfortable in Japanese, please see the [Japanese README](./README_JP.md) for full instructions and details.
+日本語で読む場合はこちら → [README_JP.md](./README_JP.md)
 
 ---
 
@@ -94,13 +94,12 @@ No technical knowledge is required — just select a folder, enter your keywords
 
 ---
 
-## 💰 Pricing
+## 💰 Purchase / License Fee
 
-- **Single PC License**: $199 USD (one-time purchase)  
-- **Additional PC License**: $149 USD per additional PC  
-- **Optional Support & Updates Renewal (after 1 year)**: $49 USD per year  
+- One-time purchase: **$178 (≈¥27,800 JPY)**  
+- Includes **perpetual license** and **first-year updates & support**  
+- Purchase securely via Stripe: [Buy Now](https://your-stripe-payment-link.com)
 
-> Purchase includes one year of updates and support.
 
 ---
 
