@@ -19,7 +19,7 @@ Perfect for:
 - Teams reviewing **contracts, reports, specifications**  
 - Anyone looking to **cut hours off repetitive PDF checks**
 <!-- GIF demo -->
-![PDF Inspector Demo](./assets/demo.gif)
+![PDF Inspector Demo](./assets/demo_en.gif)
 > Focus your time on making decisions, not digging through files.
 
 ---
