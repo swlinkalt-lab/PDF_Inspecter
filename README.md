@@ -58,6 +58,17 @@ After extraction and sorting:
 ![Explorer After](./assets/output_folder_EN.png)
 
 ---
+### 🏢 Common Use Cases
+
+- Legal teams reviewing **hundreds of contract PDFs** on a Monday morning  
+- Project managers checking **specifications from multiple vendors**  
+- Administrative staff preparing for audits by extracting **only relevant documents**  
+
+PDF Inspector Business helps you move from  
+**reading everything**  
+to **reviewing only what truly matters**.
+
+---
 
 ## 📂 Supported PDF Types & Limitations
 
