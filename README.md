@@ -122,7 +122,7 @@ to **reviewing only what truly matters**.
 
 - One-time purchase: **$178 (≈¥27,800 JPY)**  
 - Includes **perpetual license** and **first-year updates & support**  
-- Purchase securely via Stripe: [Buy Now](https://your-stripe-payment-link.com)
+- Purchase securely via Stripe: [Buy Now] →We're getting ready... Please send us an e-mail:**swlinkalt@gmail.com**
 
 
 ---
