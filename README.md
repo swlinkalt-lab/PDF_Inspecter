@@ -22,6 +22,9 @@ Perfect for:
 ![PDF Inspector Demo](./assets/demo_en.gif)
 > Focus your time on making decisions, not digging through files.
 
+> "I was facing hundreds of PDFs to review...  
+> Now I can select the files I actually need to check in just minutes!"
+
 ---
 
 ## ✅ Who Should Use PDF Inspector Business
