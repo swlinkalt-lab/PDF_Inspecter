@@ -121,7 +121,9 @@ to **reviewing only what truly matters**.
 ## 💰 Purchase / License Fee
 
 - One-time purchase: **$178 (≈¥27,800 JPY)**  
-- Includes **perpetual license** and **first-year updates & support**  
+- Includes **perpetual license** and **first-year updates & support**
+- Secure purchase via Stripe: [Buy Now]
+- 
 - The payment link is currently being prepared.
 If you would like to purchase, please contact us at:　swlinkalt@gmail.com
 
