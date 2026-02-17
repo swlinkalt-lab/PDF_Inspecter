@@ -17,7 +17,7 @@
 ---
 
 <!-- デモGIF -->
-![PDF Inspector Demo](./assets/demo_en.gif)
+![PDF Inspector Demo](./assets/businessPIC_JP6.png)
 
 > 「今から何百ものPDFを確認しなきゃ…」  
 > 「でも数分で確認すべき書類だけを選定できた！」
