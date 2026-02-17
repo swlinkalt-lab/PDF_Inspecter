@@ -14,7 +14,13 @@
 
 のために開発されました。  
 **「検索→確認→抽出」の時間を大幅に短縮**します。
+---
 
+<!-- デモGIF -->
+![PDF Inspector Demo](./assets/demo_en.gif)
+
+> 「今から何百ものPDFを確認しなきゃ…」  
+> 「でも数分で確認すべき書類だけを選定できた！」
 ---
 
 ## ✅ このツールでできること / What You Can Do
@@ -26,7 +32,15 @@
 - 日本語／English UI切替対応  
 
 > 業務の時間を「確認作業」から「判断・実行」に集中させられます。
+---
 
+### 📁 ファイル整理のビフォーアフター
+
+使用前：  
+![Explorer Before](./assets/input_folder_JP.png)
+
+抽出・整理後：  
+![Explorer After](./assets/output_folder_JP.png)
 ---
 
 ## 📂 対応PDF・注意点 / Supported PDF Types & Notes
