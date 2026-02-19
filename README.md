@@ -134,8 +134,7 @@ to **reviewing only what truly matters**.
 - Includes **perpetual license** and **first-year updates & support**
 - Secure purchase via Stripe: [Buy Now]
 - 
-- The payment link is currently being prepared.
-If you would like to purchase, please contact us at:　swlinkalt@gmail.com
+  https://buy.stripe.com/6oUeVd2Km3TQgK43HG7EQ00
 
 
 ---
